@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+// Comment at the top of RedBluePPM.c
 /* 
  *   This is a c program to create a red and blue plain pixel map.
  *   Usage: 
